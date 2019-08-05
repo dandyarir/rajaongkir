@@ -289,7 +289,7 @@ Jika anda menemukan bugs atau issue, anda dapat mempostingnya di [Github Issues]
 
 Requirements
 ------------
-- PHP 7.2+
+- PHP 7.1+
 - [Composer][9]
 - [O2System Curl][10]
 
